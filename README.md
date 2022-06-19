@@ -6,3 +6,7 @@
 
 
 ### click slot button
+<img width="207" alt="스크린샷 2022-06-19 오후 6 03 07" src="https://user-images.githubusercontent.com/58204852/174473602-876d845b-0892-4867-b2dc-81506d91e404.png">
+ click slot, 5 point decreas
+ 
+ 
